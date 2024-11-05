@@ -52,5 +52,5 @@ Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 
 # Projenin E-R diyagraımı aşağıda gösterilmiştir:
 
-![image]()
+![futbolScout](https://github.com/user-attachments/assets/914d655e-53b1-47dd-bc85-37760b1a11ae)
 
