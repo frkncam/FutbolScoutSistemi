@@ -9,7 +9,7 @@
 
 Futbol scout sistemi veritabanı projesi, futbol kulüplerinin ve scout (gözlemci) ekiplerinin oyuncu takibi, analiz ve transfer süreçlerini daha etkin bir şekilde yönetmelerine yardımcı olmayı amaçlamaktadır. Bu sistem, oyuncu performans verilerinin, sakatlık geçmişlerinin, transfer kayıtlarının ve maç istatistiklerinin merkezi bir veritabanında depolanmasını ve analiz edilmesini sağlar.
 
-Varlık-Özellik Tablosu:
+# Varlık-Özellik Tablosu:
 
 | **Varlıklar**           | **Özellikler**                                                                                                      |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 | Maç          | Maç İstatistikleri     | 1-1        |
 | Oyuncu       | Pozisyon               | N-M        |
 
-Projenin E-R diyagraımı aşağıda gösterilmiştir:
+# Projenin E-R diyagraımı aşağıda gösterilmiştir:
 
-
+![image]()
 
