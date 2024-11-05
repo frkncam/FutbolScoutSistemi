@@ -1,5 +1,11 @@
 # FutbolScoutSistemi
-2.öğretim Çift 16.grup Furkan ÇAM, Yunus Emre İNEL, Davut KARAGÖL
+•2.Öğretim Çift 16.grup
+
+•Furkan ÇAM-225260044
+
+•Yunus Emre İNEL-225260040
+
+•Davut KARAGÖL-
 
 | **Varlıklar**           | **Özellikler**                                                                                                      |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|
