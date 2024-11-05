@@ -39,6 +39,7 @@ Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 | Oyuncu       | Takım                  | 1-N        |
 | Oyuncu       | Transfer Kaydı         | 1-N        |
 | Oyuncu       | Sakatlık               | 1-N        |
+| Oyuncu       | Pozisyon               | N-M        |
 | Scout        | Performans Kaydı       | 1-N        |
 | Scout        | Rapor                  | 1-N        |
 | Scout        | Rol                    | N-1        |
@@ -48,9 +49,7 @@ Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 | Maç          | Performans Kaydı       | N-1        |
 | Maç          | Stadyum                | N-1        |
 | Maç          | Maç İstatistikleri     | 1-1        |
-| Oyuncu       | Pozisyon               | N-M        |
 
 # Projenin E-R diyagramı aşağıda gösterilmiştir:
 
 ![futbolScout](https://github.com/user-attachments/assets/914d655e-53b1-47dd-bc85-37760b1a11ae)
-
