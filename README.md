@@ -50,7 +50,7 @@ Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 | Maç          | Maç İstatistikleri     | 1-1        |
 | Oyuncu       | Pozisyon               | N-M        |
 
-# Projenin E-R diyagraımı aşağıda gösterilmiştir:
+# Projenin E-R diyagramı aşağıda gösterilmiştir:
 
 ![futbolScout](https://github.com/user-attachments/assets/914d655e-53b1-47dd-bc85-37760b1a11ae)
 
