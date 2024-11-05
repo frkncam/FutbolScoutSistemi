@@ -1,4 +1,4 @@
-# FutbolScoutSistemi
+# Futbol Scout Sistemi
 •2.Öğretim Çift 16.grup
 
 •Furkan ÇAM-225260044
