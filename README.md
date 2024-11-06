@@ -14,7 +14,7 @@ Futbol scout sistemi veritabanı projesi, futbol kulüplerinin ve scout (gözlem
 | **Varlıklar**           | **Özellikler**                                                                                                      |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Oyuncu**              | Oyuncu ID, Ad, Soyad, Uyruk, Doğum Tarihi                                                                          |
-| **Takım**               | Takım ID, Takım Adı, Ülke, Lig Adı, Menajer ID                                                                      |
+| **Takım**               | Takım ID, Takım Adı, Ülke, Lig ID, Menajer ID                                                                      |
 | **Lig**                 | Lig ID, Lig Adı, Ülke                                                                                               |
 | **Pozisyon**            | Pozisyon ID, Pozisyon Adı                                                                                           |
 | **Rol**                 | Rol ID, Rol Adı                                                                                                     |
