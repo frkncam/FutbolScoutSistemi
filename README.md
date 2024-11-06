@@ -25,7 +25,7 @@ Futbol scout sistemi veritabanı projesi, futbol kulüplerinin ve scout (gözlem
 | **Maç İstatistikleri**  | İstatistik ID, Maç ID, Şut Sayısı, Faul Sayısı, Kırmızı Kart, Sarı Kart                                           |
 | **Stadyum**             | Stadyum ID, Stadyum Ad, Şehir, Kapasite                                                                            |
 | **Maç**                 | Maç ID, Tarih, Stadyum ID, Takım1 ID, Takım2 ID, Sonuç                                                             |
-| **Performans Kaydı**    | Performans ID, Tarih, Maç ID, Dakika, Gol Sayısı, Asist Sayısı, Pozisyon, Scout Yorum                              |
+| **Performans Kaydı**    | Performans ID, Tarih, Oyuncu ID, Maç ID, Dakika, Gol Sayısı, Asist Sayısı, Pozisyon, Scout Yorum                   |
 | **Scout**               | Scout ID, Ad, Soyad, Uzmanlık Alanı, Çalışma Bölgesi, Rol ID                                                       |
 
 # Varlık İlişki Tablosu
