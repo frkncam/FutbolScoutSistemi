@@ -18,7 +18,7 @@ Futbol scout sistemi veritabanı projesi, futbol kulüplerinin ve scout (gözlem
 | **Lig**                 | Lig ID, Lig Adı, Ülke                                                                                               |
 | **Pozisyon**            | Pozisyon ID, Pozisyon Adı                                                                                           |
 | **Rol**                 | Rol ID, Rol Adı                                                                                                     |
-| **Transfer Kaydı**      | Transfer ID, Transfer Tarihi, Eski Takım ID, Yeni Takım ID, Transfer Ücreti                                        |
+| **Transfer Kaydı**      | Transfer ID, Transfer Tarihi, Eski Takım ID, Yeni Takım ID, Oyuncu ID, Transfer Ücreti                               |
 | **Menajer**             | Menajer ID, Ad, Soyad, Telefon                                                                                      |
 | **Sakatlık**            | Sakatlık ID, Oyuncu ID, Yaralanma Tipi, Başlangıç Tarihi, Bitiş Tarihi                                             |
 | **Rapor**               | Rapor ID, Rapor Tarihi, İçerik, Scout ID, Oyuncu ID                                                                 |
