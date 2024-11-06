@@ -36,7 +36,7 @@ Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 |--------------|------------------------|------------|
 | Oyuncu       | Performans Kaydı       | 1-N        |
 | Oyuncu       | Rapor                  | 1-N        |
-| Oyuncu       | Takım                  | 1-N        |
+| Oyuncu       | Takım                  | N-1        |
 | Oyuncu       | Transfer Kaydı         | 1-N        |
 | Oyuncu       | Sakatlık               | 1-N        |
 | Oyuncu       | Pozisyon               | N-M        |
