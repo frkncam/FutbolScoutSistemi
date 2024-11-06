@@ -50,7 +50,7 @@ Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 | Maç          | Stadyum                | N-1        |
 | Maç          | Maç İstatistikleri     | 1-1        |
 
-•  Oyuncu - Performans Kaydı (1-N): Bir oyuncu, birden fazla performans kaydına sahip olabilir. Ancak her performans kaydı yalnızca bir oyuncuya aittir.
+•  Oyuncu - Performans Kaydı (1-N): Bir oyuncu, birden fazla performans kaydına sahip olabilir. Ancak her performans kaydı yalnızca bir oyuncuya aittir. |
 •  Oyuncu - Rapor (1-N): Bir oyuncu hakkında birden fazla rapor oluşturulabilir. Ancak her rapor yalnızca bir oyuncuya ait olabilir.
 •  Oyuncu - Takım (N-1): Bir oyuncu aynı anda sadece bir takımda olabilir (bir takımın üyesidir). Fakat, bir takımda birden fazla oyuncu bulunabilir.
 •  Oyuncu - Transfer Kaydı (1-N): Bir oyuncunun birden fazla transfer kaydı olabilir. Ancak her transfer kaydı yalnızca bir oyuncuya aittir.
