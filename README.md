@@ -32,24 +32,6 @@ Futbol scout sistemi veritabanı projesi, futbol kulüplerinin ve scout (gözlem
 
 Bu tablo, veritabanındaki varlıklar arasındaki ilişkileri göstermektedir:
 
-| **Varlık 1** | **Varlık 2**           | **İlişki** |
-|--------------|------------------------|------------|
-| Oyuncu       | Performans Kaydı       | 1-N        |
-| Oyuncu       | Rapor                  | 1-N        |
-| Oyuncu       | Takım                  | N-1        |
-| Oyuncu       | Transfer Kaydı         | 1-N        |
-| Oyuncu       | Sakatlık               | 1-N        |
-| Oyuncu       | Pozisyon               | N-M        |
-| Scout        | Performans Kaydı       | 1-N        |
-| Scout        | Rapor                  | 1-N        |
-| Scout        | Rol                    | N-1        |
-| Takım        | Transfer Kaydı         | 1-N        |
-| Takım        | Lig                    | N-1        |
-| Takım        | Menajer                | N-1        |
-| Maç          | Performans Kaydı       | N-1        |
-| Maç          | Stadyum                | N-1        |
-| Maç          | Maç İstatistikleri     | 1-1        |
-
 | İlişki                 | Açıklama                                                                                                  |
 |------------------------|----------------------------------------------------------------------------------------------------------|
 | **Oyuncu - Performans Kaydı** (1-N) | Bir oyuncu, birden fazla performans kaydına sahip olabilir. Ancak her performans kaydı yalnızca bir oyuncuya aittir. |
